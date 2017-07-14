@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Erica Timmons
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we created a photo gallery using JavaScript and DOM
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://emt14b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
